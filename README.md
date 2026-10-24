@@ -18,13 +18,13 @@
   <a href="https://leetcode.com/u/farheennaaz/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/farheennaaz" target="_blank">
+  <a href="https://github.com/Farheennaaz02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farheennaaz&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Farheennaaz02&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -106,21 +106,14 @@ Packet inspection engine that parses PCAP captures across Ethernet/IP/TCP layers
   <img src="https://leetcard.jacoblin.cool/farheennaaz?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farheennaaz&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farheennaaz&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farheennaaz&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farheennaaz/farheennaaz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Farheennaaz02/Farheennaaz02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
